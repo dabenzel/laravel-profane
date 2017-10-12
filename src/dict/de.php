@@ -55,4 +55,12 @@ return [
     'Schamlippen',
     'Hodensack',
     'arschlecken',
+    'Wichser',
+    'wichsen',
+    'schwuchtel',
+    'Hure',
+    'du Affe',
+    'du Esel'
+    'pissnelke',
+    'Hurenkind'
 ];
